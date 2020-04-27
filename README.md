@@ -3,7 +3,7 @@
 เป็นโปรเจค ในรายวิชา Programming Fundamentals II  
 จัดทำโดย น.ส.สมิตา วังแฟน รหัสนิสิต 6130300905  
 # วิธีเปิดโปรแกรม  
--ลงจาว JDK ลิ้งค์นี้ https://www.oracle.com/technetwork/java/javase/overview/index.html    
+-ลงจาวา JDK ลิ้งค์นี้ https://www.oracle.com/technetwork/java/javase/overview/index.html    
 -เปิดโปรแกรมโดยเข้าไปที่โฟลเดอร์ bin  
 -กด shift คลิกขวา เปิด PowerShell ขึ้นมา  
 -พิม java MainFrame  
